@@ -6,10 +6,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=17F71F&width=435&lines=Hello+I%60m+murahide104.+Have+a+nice+day!" alt="Typing SVG" /></a>
 
-### 👋 About Me
-<p>SunMoon University master 1</p> 
-<p>あいうえお</p>
-
 ### 💼 My Portfolio & Blog
 
 <div align="center">
