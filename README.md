@@ -9,7 +9,7 @@
 ### 💼 My Portfolio & Blog
 
 <div align="center">
-<a href="[NotionのポートフォリオのURL](https://app.notion.com/p/Murayama-Hidetoshi-4115a5fcc30680c5be6af1c12032ba82)">
+<a href="https://app.notion.com/p/Murayama-Hidetoshi-4115a5fcc30680c5be6af1c12032ba82">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 <a href="https://zenn.dev/hidetoshi_m">
