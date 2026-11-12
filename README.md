@@ -13,8 +13,8 @@
 <div align="center">
  <br>
  <a href="https://app.notion.com/p/Murayama-Hidetoshi-4115a5fcc30680c5be6af1c12032ba82"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
- <a href="https://zenn.dev/hidetoshi_m"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white /></a>
- <br>
+ <a href="https://zenn.dev/hidetoshi_m"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
+<br>
 
 </div>
 
