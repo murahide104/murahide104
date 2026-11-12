@@ -35,7 +35,7 @@
 
 ---
 
-###  ⚒️Languages and Tools
+###  ⚒️ Languages and Tools
 
 <div align="center">
  <h4>Languages</h4>
@@ -75,12 +75,12 @@
 
 ---
 
-### 📚Contribution
+### 📚 Contribution
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-### Project List
+### 🚀 Project List
 
 | Project Logo | Project Link | Summary |
 | :---: | :---: | :---: |
